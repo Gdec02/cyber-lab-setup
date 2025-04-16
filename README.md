@@ -20,13 +20,13 @@ This project documents my virtual lab environment using Kali Linux and Metasploi
 ## 📸 Screenshots
 
 ### 🔹 Kali IP Address
-![Kali IP](screenshots/kali_ip.png)
+![Kali IP](screenshots/Kali_ip.png)
 
 ### 🔹 Metasploitable IP Address
 ![Metasploitable IP](screenshots/metasploitable_ip.png)
 
 ### 🔹 Ping Test
-![Ping Test](screenshots/ping_test.png)
+![Ping Test](screenshots/Ping_test.png)
 
 
 ## 📝 Notes
