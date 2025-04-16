@@ -18,9 +18,16 @@ This project documents my virtual lab environment using Kali Linux and Metasploi
 - Promiscuous Mode: Allow All
 
 ## 📸 Screenshots
-- `screenshots/kali_ip.png`: Kali's IP address
-- `screenshots/metasploitable_ip.png`: Metasploitable's IP address
-- `screenshots/ping_test.png`: Successful ping from Kali to Metasploitable
+
+### 🔹 Kali IP Address
+![Kali IP](screenshots/kali_ip.png)
+
+### 🔹 Metasploitable IP Address
+![Metasploitable IP](screenshots/metasploitable_ip.png)
+
+### 🔹 Ping Test
+![Ping Test](screenshots/ping_test.png)
+
 
 ## 📝 Notes
 See `notes.md` for interface details and setup steps.
