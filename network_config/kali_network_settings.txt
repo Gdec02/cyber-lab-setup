@@ -1,1 +1,27 @@
+KALI LINUX VIRTUALBOX NETWORK SETTINGS
+
+Adapter 1:
+  - Attached to: Host-Only Adapter
+  - Name: vboxnet0
+  - Adapter Type: Intel PRO/1000 MT Desktop (82540EM)
+  - Promiscuous Mode: Allow All
+  - Cable Connected: ✔️
+
+Adapter 2 (for internet access):
+  - Attached to: NAT
+  - Adapter Type: Intel PRO/1000 MT Desktop (82540EM)
+  - Promiscuous Mode: Deny
+  - Cable Connected: ✔️
+
+Internal Kali IP (eth0): 192.168.56.101
+Internet Kali IP (eth1): 10.0.2.4
+
+Verified tools installed:
+- dhclient (installed manually)
+- ping
+- nmap (coming soon!)
+
+Tested with:
+- Metasploitable 2
+- Successful ping and virtual network communication
 
